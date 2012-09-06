@@ -6,9 +6,9 @@ static int count;
 @interface Foo : NSObject {
 //instance property defined here
 @public
-	int bar1;
+  int bar1;
 @private
-	int bar2;
+  int bar2;
 }
 
 //class method defined with +
